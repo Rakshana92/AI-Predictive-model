@@ -12,11 +12,11 @@ This project is an AI-powered AutoML agent built using Botpress.
 
 ## 🧠 Built With
 
-* agentsbook
+* Gemini
 
 ## 🔗 Live Demo
 
 Click below to try the bot:
 
-👉 [Try the AI Agent](https://agentsbooks.com/public/agents/intelligent-automl-agent)
+👉 [Try the AI Agent](https://gemini.google.com/share/b828fdebedad)
 
