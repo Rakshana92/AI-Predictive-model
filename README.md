@@ -12,11 +12,11 @@ This project is an AI-powered AutoML agent built using Botpress.
 
 ## 🧠 Built With
 
-* Botpress Autonomous Node
+* agentsbook
 
 ## 🔗 Live Demo
 
 Click below to try the bot:
 
-👉 [Try the AI Agent](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/04/08/07/20260408072752-GE5Q4L14.json)
+👉 [Try the AI Agent](https://agentsbooks.com/public/agents/intelligent-automl-agent)
 
